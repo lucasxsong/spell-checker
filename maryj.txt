@@ -1,1 +1,1 @@
-john read moby dick mary read a different book she read a book by cher
+{S} john read moby dick {E} {S} mary read a different book {E} {S} she read a book by cher {E}
